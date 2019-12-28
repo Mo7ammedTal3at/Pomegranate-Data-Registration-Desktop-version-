@@ -1,0 +1,40 @@
+c:\users\eng mohammed talaat\documents\visual studio 2015\Projects\Nour El-7abib Company\Nour El-7abib Company\bin\Debug\Nour El-7abib Company.exe.config
+c:\users\eng mohammed talaat\documents\visual studio 2015\Projects\Nour El-7abib Company\Nour El-7abib Company\bin\Debug\Nour El-7abib Company.exe
+c:\users\eng mohammed talaat\documents\visual studio 2015\Projects\Nour El-7abib Company\Nour El-7abib Company\bin\Debug\Nour El-7abib Company.pdb
+c:\users\eng mohammed talaat\documents\visual studio 2015\Projects\Nour El-7abib Company\Nour El-7abib Company\bin\Debug\EntityFramework.dll
+c:\users\eng mohammed talaat\documents\visual studio 2015\Projects\Nour El-7abib Company\Nour El-7abib Company\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\eng mohammed talaat\documents\visual studio 2015\Projects\Nour El-7abib Company\Nour El-7abib Company\bin\Debug\EntityFramework.xml
+c:\users\eng mohammed talaat\documents\visual studio 2015\Projects\Nour El-7abib Company\Nour El-7abib Company\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\eng mohammed talaat\documents\visual studio 2015\Projects\Nour El-7abib Company\Nour El-7abib Company\obj\Debug\Nour El-7abib Company.csprojResolveAssemblyReference.cache
+c:\users\eng mohammed talaat\documents\visual studio 2015\Projects\Nour El-7abib Company\Nour El-7abib Company\obj\Debug\Nour_El_7abib_Company.Properties.Resources.resources
+c:\users\eng mohammed talaat\documents\visual studio 2015\Projects\Nour El-7abib Company\Nour El-7abib Company\obj\Debug\Nour El-7abib Company.csproj.GenerateResource.Cache
+c:\users\eng mohammed talaat\documents\visual studio 2015\Projects\Nour El-7abib Company\Nour El-7abib Company\obj\Debug\Nour El-7abib Company.exe
+c:\users\eng mohammed talaat\documents\visual studio 2015\Projects\Nour El-7abib Company\Nour El-7abib Company\obj\Debug\Nour El-7abib Company.pdb
+c:\users\eng mohammed talaat\documents\visual studio 2015\Projects\Nour El-7abib Company\Nour El-7abib Company\obj\Debug\Nour_El_7abib_Company.frmLogin.resources
+c:\users\eng mohammed talaat\documents\visual studio 2015\Projects\Nour El-7abib Company\Nour El-7abib Company\obj\Debug\Nour_El_7abib_Company.FrmAddCustomer.resources
+c:\users\eng mohammed talaat\documents\visual studio 2015\Projects\Nour El-7abib Company\Nour El-7abib Company\obj\Debug\Nour_El_7abib_Company.FrmCustomerProfile.resources
+c:\users\eng mohammed talaat\documents\visual studio 2015\Projects\Nour El-7abib Company\Nour El-7abib Company\obj\Debug\Nour_El_7abib_Company.FrmMain.resources
+C:\Users\Eng Mohammed Talaat\documents\visual studio 2015\Projects\Nour El-7abib Company\Nour El-7abib Company\obj\Debug\Nour_El_7abib_Company.FrmAccountStatement.resources
+C:\Users\Eng Mohammed Talaat\documents\visual studio 2015\Projects\Nour El-7abib Company\Nour El-7abib Company\obj\Debug\Nour_El_7abib_Company.FrmPayment.resources
+E:\mohamed\Projects\Nour El-7abib Company\Nour El-7abib Company\bin\Debug\Nour El-7abib Company.exe.config
+E:\mohamed\Projects\Nour El-7abib Company\Nour El-7abib Company\obj\Debug\Nour El-7abib Company.exe
+E:\mohamed\Projects\Nour El-7abib Company\Nour El-7abib Company\obj\Debug\Nour El-7abib Company.pdb
+E:\My Projects\Nour El-7abib Company\Nour El-7abib Company\Nour El-7abib Company\bin\Debug\Nour El-7abib Company.exe.config
+E:\My Projects\Nour El-7abib Company\Nour El-7abib Company\Nour El-7abib Company\obj\Debug\Nour El-7abib Company.exe
+E:\My Projects\Nour El-7abib Company\Nour El-7abib Company\Nour El-7abib Company\obj\Debug\Nour El-7abib Company.pdb
+E:\My Projects\Nour El-7abib Company\Nour El-7abib Company\Nour El-7abib Company\bin\Debug\Nour El-7abib Company.exe
+E:\My Projects\Nour El-7abib Company\Nour El-7abib Company\Nour El-7abib Company\bin\Debug\Nour El-7abib Company.pdb
+E:\My Projects\Nour El-7abib Company\Nour El-7abib Company\Nour El-7abib Company\bin\Debug\EntityFramework.dll
+E:\My Projects\Nour El-7abib Company\Nour El-7abib Company\Nour El-7abib Company\bin\Debug\EntityFramework.SqlServer.dll
+E:\My Projects\Nour El-7abib Company\Nour El-7abib Company\Nour El-7abib Company\bin\Debug\EntityFramework.xml
+E:\My Projects\Nour El-7abib Company\Nour El-7abib Company\Nour El-7abib Company\bin\Debug\EntityFramework.SqlServer.xml
+E:\My Projects\Nour El-7abib Company\Nour El-7abib Company\Nour El-7abib Company\obj\Debug\Nour El-7abib Company.csprojResolveAssemblyReference.cache
+E:\My Projects\Nour El-7abib Company\Nour El-7abib Company\Nour El-7abib Company\obj\Debug\Nour_El_7abib_Company.FrmLogin.resources
+E:\My Projects\Nour El-7abib Company\Nour El-7abib Company\Nour El-7abib Company\obj\Debug\Nour_El_7abib_Company.FrmAccountStatement.resources
+E:\My Projects\Nour El-7abib Company\Nour El-7abib Company\Nour El-7abib Company\obj\Debug\Nour_El_7abib_Company.FrmAddCustomer.resources
+E:\My Projects\Nour El-7abib Company\Nour El-7abib Company\Nour El-7abib Company\obj\Debug\Nour_El_7abib_Company.FrmCustomerProfile.resources
+E:\My Projects\Nour El-7abib Company\Nour El-7abib Company\Nour El-7abib Company\obj\Debug\Nour_El_7abib_Company.FrmMain.resources
+E:\My Projects\Nour El-7abib Company\Nour El-7abib Company\Nour El-7abib Company\obj\Debug\Nour_El_7abib_Company.FrmPayment.resources
+E:\My Projects\Nour El-7abib Company\Nour El-7abib Company\Nour El-7abib Company\obj\Debug\Nour_El_7abib_Company.Properties.Resources.resources
+E:\My Projects\Nour El-7abib Company\Nour El-7abib Company\Nour El-7abib Company\obj\Debug\Nour El-7abib Company.csproj.GenerateResource.Cache
+E:\My Projects\Nour El-7abib Company\Nour El-7abib Company\Nour El-7abib Company\obj\Debug\Nour_El_7abib_Company.FrmSettings.resources
